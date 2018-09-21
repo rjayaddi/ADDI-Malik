@@ -1,2 +1,3 @@
 # ADDI Malik
-Here we are going to create a software for hameed shop
+This is my personal github repositry. Still i don't know why i created this.
+In the future for what purpose i will use it.
